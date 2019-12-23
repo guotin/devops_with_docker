@@ -1,0 +1,8 @@
+$docker run --name looper devopsdockeruh/exec_bash_exercise
+$docker exec -it looper bash
+
+root@82e6a59e0e3c:/usr/app# tail -f ./logs.txt 
+Sun, 22 Dec 2019 10:27:06 GMT
+Secret message is:
+"Docker is easy"
+

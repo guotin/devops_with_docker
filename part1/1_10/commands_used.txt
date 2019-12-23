@@ -1,0 +1,2 @@
+$docker build -t frotend .
+$docker run -p 5000:5000 frontend
