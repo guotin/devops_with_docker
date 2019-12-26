@@ -1,0 +1,4 @@
+$ git clone https://github.com/docker-hy/scaling-exercise.git
+$ docker-compose up --scale compute=2
+
+and the button turns green
