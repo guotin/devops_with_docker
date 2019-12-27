@@ -1,0 +1,9 @@
+Before:
+
+REPOSITORY             TAG                 IMAGE ID            CREATED              SIZE
+maiden-tiedot          latest              c149955e432c        About a minute ago   531MB
+
+After:
+REPOSITORY             TAG                 IMAGE ID            CREATED              SIZE
+maiden-tiedot          latest              bc9e5a14c10c        About a minute ago   88.3MB
+
